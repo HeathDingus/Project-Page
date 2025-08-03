@@ -1,0 +1,46 @@
+body {
+  background-color:#36454F;
+}
+
+* {
+  text-decoration:none;
+}
+
+.navbar {
+  background-color:#003153;
+  font-family:'orbitron';
+  padding-right:15px;
+  padding-left:15px;
+}
+
+.navdiv {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+}
+
+.name {
+  color:white;
+  font-size:25px;
+}
+
+li {
+  list-style:none;
+  display:inline-block;
+}
+
+li a {
+  color:white;
+  margin:15px;
+  font-size:20px;
+}
+
+li a:hover {
+  color:#36454F;
+}
+
+h1 {
+  margin-top:10%;
+  text-align:center;
+  color: white;
+}
